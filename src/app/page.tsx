@@ -244,7 +244,7 @@ function LdrCard({
       </h3>
 
       <p className="text-3xl mt-2">
-        {value}
+        {value} Lux
       </p>
 
       {active && (
